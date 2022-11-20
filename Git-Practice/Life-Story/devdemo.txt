@@ -1,3 +1,2 @@
-New git branch created and file uploaded from local to remote.
 
-New change done in dev branch just now.
+Hello this is git mege and devdemo.txt file
